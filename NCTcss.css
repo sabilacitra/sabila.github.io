@@ -1,0 +1,84 @@
+body{ background-image: ; }
+#tampilan{
+	background-color: rgba(169, 222, 132,0.8);
+	height: 9900px;
+	width: 1800px;
+	margin: auto;
+	padding: 5px;
+}
+#header{
+	background-color: #bfe4a5;
+	height: 400px;
+	width: 1800px;
+	overflow: hidden;
+}
+#teks{
+	background-color: rgba(102, 217, 23, 0.8);
+	height: 50px;
+	width: 1800px;
+	overflow: hidden;
+	border-style: dashed;
+	border-color: black;
+}
+#menu{
+	background: #3f9b00;
+	height:30px;
+	width: 1800px;
+}
+#kiri{
+	background:#95e85d ;
+	height:9900px;
+	width: 1300px;
+	float: left;
+}
+#kanan{
+	background: #4baf07;
+	height: 9900px;
+	width:492px ;
+	float: right;
+}
+#box{
+	width: 1100px;
+	height: 350px;
+	padding: 10px;
+	border:5px solid #333;
+	margin: 0 auto;
+	background-color: #2abb19;
+}
+#outline-box{
+	width: 300px;
+	height: 200px;
+	outline: 2px dashed #0e2100;
+	padding: 20px;
+	background-color: #0e2100;
+}
+#mySidenav a{
+	position: absolute;
+	left: -80px;
+	transition: 0.3s;
+	padding: 15px;
+	width: 100px;
+	text-decoration: none;
+	font-size: 20px;
+	color: white;
+	border-radius: 0 5px 5px 0;
+}
+#mySidenav a:hover{
+	left: 0;
+}
+#NCT127{
+	top: 20px;
+	background-color: #4f7c4a;
+}
+#NCTDream{
+	top: 80px;
+	background-color: #4f7c4a;
+}
+#WayV{
+	top: 140px;
+	background-color: #4f7c4a;
+}
+#NCTWish{
+	top: 200px;
+	background-color: #4f7c4a;
+}
